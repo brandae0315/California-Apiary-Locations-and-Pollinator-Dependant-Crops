@@ -6,7 +6,12 @@ This project presents an interactive map visualizing **apiary locations across C
 ### Purpose of the Map
 - Where apiaries are located throughout the state  
 - Which counties have higher proportions of pollinator-dependent crops  
-- How these two distributions overlap to illustrate potential demand and pollination pressure  
+- How these two distributions overlap to illustrate potential demand and pollination pressure
+
+## Interactive Features
+- Click each apiary location marker to see number of hives for each apiary
+- Click the county to see the percentage of pollinator dependant crops
+- Data sources hyperlinks
 
 ### Important Data Notes
 This map uses **non-comprehensive datasets**:
