@@ -15,8 +15,8 @@ This project presents an interactive map visualizing **apiary locations across C
 
 ### Important Data Notes
 This map uses **non-comprehensive datasets**:
-- The crop percentages represent only the *accumulative acreage* of 7 several key pollinator-dependent crops, not all pollinator-dependant crops are represented.  
-- The apiary points reflect a *snapshot* of available public and voluntary data, meaning many apiaries—commercial and private—are not included.
+- The crop percentages county values represent only the cumulative acreage of a selected group of pollinator-dependent crops (7), rather than all crops that rely on pollination.
+- The apiary points reflect a *snapshot* of available public and voluntary data, meaning map does not capture the full population of beekeepers in the state.
 
 Because of these limitations, the map is best interpreted as a **general visualization** rather than a complete inventory.
 
