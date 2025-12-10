@@ -1,4 +1,19 @@
 # California-Apiary-Locations-and-Pollinator-Dependant-Crops
-This interactive map visualizes the distribution of apiaries across California alongside county-level percentages of pollinator-dependent crop acreage. The project was inspired by a USDA article highlighting the heavy reliance of California’s almond industry on migratory pollination services and the broader importance of understanding where pollinators and pollinator-dependent agriculture overlap. By displaying these two datasets together, the map provides a general picture of where beekeeping activity and pollination demand spatially intersect.
-It is important to note that the datasets used here are not comprehensive. The county values represent only the cumulative acreage of a selected group of pollinator-dependent crops, rather than all crops that rely on pollination. Likewise, the apiary locations reflect a snapshot of publicly available commercial and private apiaries, and do not capture the full population of beekeepers in the state. Because of these limitations, the map should be interpreted as a broad visualization rather than a precise inventory.
-Even with these constraints, the map offers a useful way to explore regional patterns, compare relative densities, and better understand the geographic relationship between California’s beekeeping activity and agricultural pollination needs, and possibly answer questions as to why importation of out-of-state bees is neccesary. 
+## README
+
+This project presents an interactive map visualizing **apiary locations across California** alongside **county-level percentages of pollinator-dependent crop acreage**. The map was inspired by a USDA article discussing the critical role migratory pollination plays in supporting California’s almond industry and other crops.
+
+### Purpose of the Map
+- Where apiaries are located throughout the state  
+- Which counties have higher proportions of pollinator-dependent crops  
+- How these two distributions overlap to illustrate potential demand and pollination pressure  
+
+### Important Data Notes
+This map uses **non-comprehensive datasets**:
+- The crop percentages represent only the *accumulative acreage* of several key pollinator-dependent crops, not all such crops grown in California.  
+- The apiary points reflect a *snapshot* of available public and voluntary data, meaning many apiaries—commercial and private—are not included.
+
+Because of these limitations, the map is best interpreted as a **general visualization** rather than a complete inventory.
+
+### Why It Matters
+Even with partial datasets, combining these layers offers meaningful insight into the spatial relationship between pollination resources and agricultural reliance on pollinators. The map helps illustrate broad regional patterns, potential hotspots of pollination demand, and areas where apiary presence aligns—or does not align—with crop needs.
